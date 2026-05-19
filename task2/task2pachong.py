@@ -16,7 +16,6 @@ a_share_codes = [
 ]
 
 
-# 改这里：爬到 2025 年底
 start_date = "2019-01-01"
 end_date = "2025-12-31"
 
