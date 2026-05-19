@@ -1,0 +1,2 @@
+raw_rows,window_rows_recent_3_years,rows_after_front_adjust_filter,rows_after_basic_validity_check,rows_after_suspension_filter_and_normal_trading_filter,analysis_start,analysis_end,excluded_suspension_codes,aligned_price_start,aligned_price_end,aligned_price_days,return_start,return_end,return_days,candidate_stock_count_after_suspension_filter,optimal_k
+81451,36350,36350,36350,36317,2023-01-01,2025-12-31,,2023-01-03,2025-12-31,697,2023-01-04,2025-12-31,696,50,3

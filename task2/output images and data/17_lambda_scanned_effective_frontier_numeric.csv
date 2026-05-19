@@ -1,0 +1,2 @@
+constraint_case,lower_weight,upper_weight,pair_weight_upper,min_feasible_annual_return,max_feasible_annual_return,target_annual_return_R0,target_return_feasible
+unified_structural_constraints,0.05,0.4,0.65,0.155494953306574,0.219699971750642,0.15,yes

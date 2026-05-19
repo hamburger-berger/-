@@ -1,0 +1,4 @@
+action,detail
+participating_clusters_determined,"rule=optimal_k_less_than_4_supplement_later; clusters=1,2,3"
+supplement,"added=601318; cluster=1; max_corr=0.42138"
+correlation_review_passed,"iteration=1; max_corr=0.42138"
